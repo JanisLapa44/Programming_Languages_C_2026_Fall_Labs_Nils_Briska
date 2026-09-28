@@ -54,7 +54,7 @@ int my_strlen(const char *str) {
         count++;
         i++;
     }
-    return count; // placeholder
+    return count;
 }
 
 void my_strcpy(char *dest, const char *src) {
